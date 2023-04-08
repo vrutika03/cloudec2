@@ -1,0 +1,10 @@
+.color-nav {
+    background-color: #2c2c97 ;
+
+}
+
+.nav-link, .navbar-brand{ 
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #0e090c    !important;
+    
+  }
