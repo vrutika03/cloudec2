@@ -5,6 +5,7 @@ import './Navbar.css'
 import { useNavigate } from 'react-router-dom';
 import { Auth } from 'aws-amplify';
 
+
 import Swal from 'sweetalert2'
 
 function Horizontal() {
